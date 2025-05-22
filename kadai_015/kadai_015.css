@@ -1,0 +1,53 @@
+
+.google-fonts{
+  font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+
+body{text-align:center;
+    font-family: "Arial", "Meiryo", sans-serif;
+    font-size:20px;
+    
+
+}
+
+h1{ 
+    font-family:"Josefin Sans";
+    text-align:center;
+    letter-spacing: 3.8rem;
+    font-size:2rem;
+    
+    
+    
+    
+}
+
+h1{
+    text-decoration:underline.3px;
+    text-shadow: 1px 1px 2px gray;
+    color: rgb(115, 115, 114);
+    width: auto;
+}
+
+
+#basic p{
+    font-weight: bold
+}
+.blue{
+    color:rgb(95, 198, 242);
+    
+}
+
+.pink{color:rgb(255, 192, 203)
+    ;
+    
+}
+
+
+ p{
+    font-size:20px;
+    text-align:center;
+     
+ }
