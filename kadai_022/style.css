@@ -2,7 +2,7 @@ h1,p,body{
     margin: 0;
 }
 
-.p,.a{
+p,a{
     font-size: 20px;
 }
 
@@ -74,7 +74,7 @@ a:hover{
 }
 
 @media screen and (max-width:768px) {
-    div {
+    #parent {
         display: block;
         flex-direction: column;
 }
