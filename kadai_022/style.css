@@ -1,4 +1,4 @@
-.h1,.p,body{
+h1,p,body{
     margin: 0;
 }
 
@@ -19,7 +19,7 @@ h1{
 }
 
 main{
-    margin: 10px 10px;
+    padding: 10px 10px;
 }
 
 #parent{
@@ -47,8 +47,8 @@ h2::before {
 }
 
 p:nth-child(3)::first-letter{
-    font-weight: bold
-    color rgb(97, 206, 249);
+    font-weight: bold;
+    color:rgb(97, 206, 249);
 }
 
 .contents img{
@@ -76,5 +76,6 @@ a:hover{
 @media screen and (max-width:768px) {
     div {
         display: block;
+        flex-direction: column;
 }
 }
